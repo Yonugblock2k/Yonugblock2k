@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Yonugblock2k
 - 👀 I’m interested in coding and playing
-- 🌱 I’m currently learning  Java
-- 📫 How to reach me  https://discord.gg/qpt6FkNXdH
+- 🌱 I’m currently learning : Java
+- 📫 How to reach me : https://discord.gg/qpt6FkNXdH
 - 😄 Pronouns: (he/him)
 - ⚡ Fun fact:...
 
